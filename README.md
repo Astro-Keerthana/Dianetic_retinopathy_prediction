@@ -11,3 +11,10 @@ The dataset contains fundus images categorized into five severity levels:
 3. Moderate DR (2) - More noticeable damage
 4. Severe DR (3) - High risk of vision loss
 5. Proliferative DR (4) - Advanced stage requiring immediate treatment
+
+# Technologies & Tools
+Programming Language: Python
+Libraries: TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-Learn
+Deep Learning Model: Convolutional Neural Networks (CNNs) with architectures - ResNet50
+Frameworks: TensorFlow/Keras
+Deployment: Flask/FastAPI 
