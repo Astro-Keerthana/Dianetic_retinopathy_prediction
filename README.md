@@ -1,0 +1,2 @@
+# Dianetic_retinopathy_prediction
+Diabetic retinopathy prediction using images
